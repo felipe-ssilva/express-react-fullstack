@@ -1,4 +1,4 @@
-# Full Stack React Express Application
+# Full Stack React Express Mongo Application
 
 ## Introduction
 This repository contains a simple Full Stack Express / React application. It is intended to demonstrate as wide an array of features as possible while still keeping the app simple and easy to understand.
